@@ -1,6 +1,6 @@
 
 [![MasterHead](https://media2.giphy.com/media/ZkVIzvAEUA4ISI6WpO/giphy.gif?cid=ecf05e47tlbcx2ir3c8uvxr2ygutpyqvp9mtaxy53dxuumis&rid=giphy.gif&ct=g)](https://www.instagram.com/adeviyyee/)
-[![MasterHead](https://media2.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif?cid=ecf05e47n13prumw45std7thr80cuoa0qc7m8771mi3qnha8&rid=giphy.gif&ct=g)](https://www.instagram.com/adeviyyee/)
+
 <h1 align="center">Hi 👋, I'm Rabia Kaynak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/tFGBovr5CtfWt7MtqK/giphy.gif?cid=ecf05e47fufque1rmgqw14b4i842cakkf83z3z270q1u540i&rid=giphy.gif&ct=g">
